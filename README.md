@@ -1,3 +1,3 @@
 # 115-1_DBSD_MyDBSD_REPO
-# Name: Smith
-# SID: C132456
+# Name: 吳旭崴
+# SID: C113181123
