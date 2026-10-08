@@ -1,3 +1,8 @@
+# Name: Smith <BR>
+# SID: C132456 <BR>
+# EX03
+<HR>
+
 <?php
 $result = 0;
 $n = 0;

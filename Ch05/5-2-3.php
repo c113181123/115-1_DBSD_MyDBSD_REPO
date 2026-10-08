@@ -1,3 +1,7 @@
+# Name: Smith <BR>
+# SID: C132456 <BR>
+# EX01
+<HR>
 <?php
 $grade = 50;
 
